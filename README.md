@@ -55,4 +55,4 @@
 [git]: https://git-scm.com/
 [mongodb]: https://www.mongodb.com/
 [figma]: https://www.figma.com/
-[premire]: https://www.adobe.com/uk/products/premiere.html
+[premiere]: https://www.adobe.com/uk/products/premiere.html
