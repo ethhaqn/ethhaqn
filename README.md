@@ -41,6 +41,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [&lpar;almost&rpar; perfect osu! game](https://www.youtube.com/watch?v=EMuTt0OOy84)
+- [Drone Footage #1](https://www.youtube.com/watch?v=FWfrpYevWrc)
+- [Clipped &amp; Clapped [Part 6] -  A Roblox Montage](https://www.youtube.com/watch?v=Wxk8FXCy4FE)
+- [Clipped &amp; Clapped [Part 5] -  A Roblox Montage](https://www.youtube.com/watch?v=vZxowVsfBE0)
+- [Clipped &amp; Clapped [Part 4] -  A Roblox Montage](https://www.youtube.com/watch?v=zjAZSfiFRpo)
 <!-- YOUTUBE:END -->
 
 [fsrp]: https://discord.gg/fsrp
