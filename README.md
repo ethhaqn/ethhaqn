@@ -1,4 +1,4 @@
-# Hi there! I'm Ethan, a [Developer][fsrp], [Project Leader][myhelper] and [Discord Moderator][fsrp]!
+# Hi there! I'm Ethan, a [Developer][fsrp], [Project Leader][myhelper] and [Moderator][fsrp]!
 - Creator and developer of [MyHelper][myhelper]
 - 🤖 Developing and maintaining [FSRP][fsrp]'s bot
 - Learning something new everyday 😉
