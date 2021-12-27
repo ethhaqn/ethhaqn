@@ -20,7 +20,7 @@
 [<img align="left" alt="Visual Studio Code" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924847347580690452/512px-Visual_Studio_Code_1.png">][vsc]
 [<img align="left" alt="JavaScript" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924847405831188480/JavaScript-logo.png?width=532&height=532">][js]
 [<img align="left" alt="HTML" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924847461133086792/512px-HTML5_logo_and_wordmark.png">][html]
-[<img align="left" alt="CSS" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924847487582347304/1200px-CSS3_logo_and_wordmark.png?width=377&height=532">][css]
+[<img align="left" alt="CSS" width="22px" height="22px" src="https://media.discordapp.net/attachments/497152916767899648/924847487582347304/1200px-CSS3_logo_and_wordmark.png?width=377&height=532">][css]
 [<img align="left" alt="Postman" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924847663453728798/image-removebg-preview.png">][postman]
 [<img align="left" alt="Node.js" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924847792944455690/image-removebg-preview.png">][nodejs]
 [<img align="left" alt="Github" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924848022741999706/2048px-Octicons-mark-github.png?width=532&height=532">][github]
