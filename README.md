@@ -31,12 +31,16 @@
 
 <br>
 
-### PC Specifications:
+### 🖥️ PC Specifications:
 
 - Windows 11 Home (64-bit)
 - 3.80 GHz AMD Ryzen 5 3600X 6-Core Processor
 - NVIDA GeForce RTX 2060 Graphics Card
 - 16 GB of RAM
+
+### 📺 Latest YouTube Videos:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [fsrp]: https://discord.gg/fsrp
 [myhelper]: https://myhelper.tech/discord
