@@ -1,8 +1,7 @@
 [![discord:chat](https://img.shields.io/discord/890605172538093718?style=flat-square)](https://myhelper.tech/discord)
 
 # Hi there! I'm Ethan, a [Developer][fsrp] and [Project Leader][myhelper]!
-- Creator and developer of [MyHelper][myhelper]
-- 🤖 Developing and maintaining [FSRP][fsrp]'s bot
+- 🤖 Creator and developer of [MyHelper][myhelper]
 - Learning something new everyday 😉
 - 🤝 Looking to collaborate with others
 - 🎮 I like to draw and play online games such as osu! and Minecraft
