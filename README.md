@@ -25,6 +25,9 @@
 [<img align="left" alt="Github" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924848022741999706/2048px-Octicons-mark-github.png?width=532&height=532">][github]
 [<img align="left" alt="Git" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924848082758295582/Git-Icon-1788C.png">][git]
 [<img align="left" alt="MongoDB" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924848247170818058/image-removebg-preview.png">][mongodb]
+[<img align="left" alt="Discord" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/924843582509174824/Discord-Logo-Color.png">][discord]
+[<img align="left" alt="Figma" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/925076646053150770/image-removebg-preview.png">][figma]
+[<img align="left" alt="Premiere Pro" width="22px" src="https://media.discordapp.net/attachments/497152916767899648/925076880086945813/1200px-Adobe_Premiere_Pro_CC_icon.png?width=546&height=532">][premiere]
 
 <br>
 
@@ -51,3 +54,5 @@
 [github]: https://github.com/
 [git]: https://git-scm.com/
 [mongodb]: https://www.mongodb.com/
+[figma]: https://www.figma.com/
+[premire]: https://www.adobe.com/uk/products/premiere.html
