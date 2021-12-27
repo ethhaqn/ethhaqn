@@ -1,7 +1,5 @@
 [![discord:chat](https://img.shields.io/discord/890605172538093718?style=flat-square)](https://myhelper.tech/discord)
 
-[![Spotify](https://novatorem-5qb4h607u-ethhaqn.vercel.app/api/spotify)](https://open.spotify.com/user/eee7utloypfjg0yq3c6hvxao0)
-
 # Hi there! I'm Ethan, a [Developer][fsrp] and [Project Leader][myhelper]!
 - 🤖 Creator and developer of [MyHelper][myhelper]
 - Learning something new everyday 😉
