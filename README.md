@@ -1,7 +1,3 @@
-[![discord:status](https://dev.discordprofiles.me/badge/status/495953543543521280?style=flat-square)](https://discord.com/users/495953543543521280)
-[![discord:playing](https://dev.discordprofiles.me/badge/playing/495953543543521280?style=flat-square)](https://discord.com/users/495953543543521280)
-[![discord:vscode](https://dev.discordprofiles.me/badge/vscode/495953543543521280?style=flat-square)](https://discord.com/users/495953543543521280)
-[![discord:spotify](https://dev.discordprofiles.me/badge/spotify/495953543543521280?style=flat-square)](https://dev.discordprofiles.me/openspotify/495953543543521280)
 [![discord:chat](https://img.shields.io/discord/890605172538093718?style=flat-square)](https://myhelper.tech/discord)
 
 # Hi there! I'm Ethan, a [Developer][fsrp], [Project Leader][myhelper] and [Moderator][fsrp]!
