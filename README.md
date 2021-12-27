@@ -1,6 +1,6 @@
 [![discord:chat](https://img.shields.io/discord/890605172538093718?style=flat-square)](https://myhelper.tech/discord)
 
-# Hi there! I'm Ethan, a [Developer][fsrp], [Project Leader][myhelper] and [Moderator][fsrp]!
+# Hi there! I'm Ethan, a [Developer][fsrp] and [Project Leader][myhelper]!
 - Creator and developer of [MyHelper][myhelper]
 - 🤖 Developing and maintaining [FSRP][fsrp]'s bot
 - Learning something new everyday 😉
