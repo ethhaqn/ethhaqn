@@ -37,7 +37,7 @@
 
 - Windows 11 Home (64-bit)
 - 3.80 GHz AMD Ryzen 5 3600X 6-Core Processor
-- NVIDA GeForce RTX 2060 Graphics Card
+- NVIDIA GeForce RTX 2060 Graphics Card
 - 16 GB of RAM
 
 ### 📺 Latest YouTube Videos:
