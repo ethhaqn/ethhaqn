@@ -39,8 +39,8 @@
 - 16 GB of RAM
 
 ### 📺 Latest YouTube Videos:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [fsrp]: https://discord.gg/fsrp
 [myhelper]: https://myhelper.tech/discord
