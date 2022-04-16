@@ -40,7 +40,7 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [&lpar;almost&rpar; perfect osu! game](https://www.youtube.com/watch?v=EMuTt0OOy84)
+- [Hypixel Bedwars | Clutch Montage](https://www.youtube.com/watch?v=2sKFLe-MmJE)
 - [Drone Footage #1](https://www.youtube.com/watch?v=FWfrpYevWrc)
 - [Clipped &amp; Clapped [Part 6] -  A Roblox Montage](https://www.youtube.com/watch?v=Wxk8FXCy4FE)
 - [Clipped &amp; Clapped [Part 5] -  A Roblox Montage](https://www.youtube.com/watch?v=vZxowVsfBE0)
