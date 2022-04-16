@@ -1,7 +1,5 @@
-[![discord:chat](https://img.shields.io/discord/890605172538093718?style=flat-square)](https://myhelper.tech/discord)
-
-# Hi there! I'm Ethan, a [Developer][fsrp] and [Project Leader][myhelper]!
-- 🤖 Creator and developer of [MyHelper][myhelper]
+# Hi there! I'm Ethan, a [Developer][pc]!
+<!-- - 🤖 Creator and developer of [MyHelper][myhelper] -->
 - Learning something new everyday 😉
 - 🤝 Looking to collaborate with others
 - 🎮 I like to draw and play online games such as osu! and Minecraft
@@ -49,8 +47,7 @@
 - [Clipped &amp; Clapped [Part 4] -  A Roblox Montage](https://www.youtube.com/watch?v=zjAZSfiFRpo)
 <!-- YOUTUBE:END -->
 
-[fsrp]: https://discord.gg/fsrp
-[myhelper]: https://myhelper.tech/discord
+[pc]: https://discord.gg/palmcreations
 [discord]: https://discord.com/users/495953543543521280
 [youtube]: https://youtube.com/ethhaqn
 [roblox]: https://www.roblox.com/users/476512066/profile
